@@ -1,0 +1,31 @@
+.card 
+{
+width: 90vw;
+height: 50vh;
+font-size: 48pt;
+border:2px groove lightgreen;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color:darkcyan;
+}
+#content
+{
+margin: 0;
+height: 100vh;
+width: 100vw;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-color: cyan;
+}
+#btn
+{
+font-size: 48pt;
+background-color:rgb(0,143,143);
+color: blue;
+padding: 10px;
+border:none;
+}
